@@ -30,3 +30,14 @@
 
 
 - GUI stage:
+    - flutter AIO app?
+
+
+# information
+
+- The focal length of a lens, expressed in millimeters, is the distance from the lens’s optical center (or nodal point) to the image plane in the camera (often illustrated by a "Φ" on the top plate of a camera body) when the lens is focused at infinity. 
+    - what about when the lens is not focused at infinity?
+    - what about when the lens is not centered on the optical axis?
+
+-  If you are an optical engineer, this is important stuff. For the photographer, however, we do not need to know about nodal points or why the 200mm lens in our closet is only 193mm long, to make great photos.
+    - find out what this means
