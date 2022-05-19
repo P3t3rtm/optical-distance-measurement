@@ -18,6 +18,7 @@
 
 - formulas: (pls verify formulas, the source is very sketch)
     - refer to formulas.png
+    ![Alt text](formulas.png?raw=true "Title")
     - update: the math checks out! see:
     ![Alt text](math-checking.jpg?raw=true "Title")
 
