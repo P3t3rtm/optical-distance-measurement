@@ -17,12 +17,8 @@
     - magnification (magnification of the lens)
 
 - formulas: (pls verify formulas, the source is very sketch)
-    - object distance = image size / (2 * tan(angle of view / 2))
-    - object diameter = object distance * magnification
-    - focal length = image size / (2 * tan(angle of view / 2))
-    - images size = object distance * magnification OR image size = object diameter / magnification
-    - angle of view = 2 * atan(image size / (2 * focal length))
-    - magnification = image size / (2 * focal length) OR magnification = focal length / image size
+    - refer to formulas.png
+    - update: the math checks out! see math checking.jpg
 
 - calibration stage: initial assessment of the camera properties, using multiple test images to calibrate the focal length of the camera.
 - measurment stage: then, you have 2 fixed properties of the camera: the focal length and the sensor size.
@@ -42,3 +38,11 @@
 
 -  If you are an optical engineer, this is important stuff. For the photographer, however, we do not need to know about nodal points or why the 200mm lens in our closet is only 193mm long, to make great photos.
     - find out what this means
+
+
+# calibration tips
+- the more precise the calibration the better
+    - the greater the distance between object and camera, the more precise the calibration
+    - caveat when using tapemeasure: watch for droop in the measurement. if droop exists, it would not be even as accurate as calibrating with a ruler.
+
+
