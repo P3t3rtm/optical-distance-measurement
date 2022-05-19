@@ -18,7 +18,8 @@
 
 - formulas: (pls verify formulas, the source is very sketch)
     - refer to formulas.png
-    - update: the math checks out! see math checking.jpg
+    - update: the math checks out! see:
+    ![Alt text](math-checking.jpg?raw=true "Title")
 
 - calibration stage: initial assessment of the camera properties, using multiple test images to calibrate the focal length of the camera.
 - measurment stage: then, you have 2 fixed properties of the camera: the focal length and the sensor size.
