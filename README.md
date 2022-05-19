@@ -8,8 +8,9 @@
     - what effect does properties of the lens have on the calculations?
 
 - known variables:
-    - object distance (measurement of distance between object and sensor of camera)
+    - object distance The object distance is the distance of the object to the centre line of the lens. 
     - object diameter (measurement of a FIXED axis of the object, e.g. width, height, any line drawn within the object)
+    - image distance: The image distance (sometimes confused with the focal length) is the distance of the image to the centre line of the lens. refer to uploaded charts.
     - image size (size of digital sensor typically in mm, if film, size of film in mm ie 35mm film)
     - focal length (focal length of the camera in mm)
     - angle of view (angle of view of the camera in degrees)
